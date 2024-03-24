@@ -1,7 +1,10 @@
 # Clear the terminal screen
-clear                                                                                   red='\033[0;34m'
-green='\033[0;32m'                                                                      r="\033[0;35m"
-y="\033[0;34m"                                                                          t="\033[0;33m"
+clear     
+red='\033[0;34m'
+green='\033[0;32m'                                                                     
+r="\033[0;35m"
+y="\033[0;34m"                             
+t="\033[0;33m"
 
 
 #code menampilkan tampilan promt keren
